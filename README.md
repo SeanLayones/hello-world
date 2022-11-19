@@ -1,2 +1,3 @@
-# hello-world
-My first repository
+#About me
+
+My name is Sean Jerome A. Layones
